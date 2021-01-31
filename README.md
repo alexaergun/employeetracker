@@ -1,12 +1,20 @@
-Employee Tracker
+Employee Tracker provides non-developers to view and interact with information stored in the database. It is a solution built for managing a companies employees through Node Inquirer, and MySQL. 
+
+The tracker creates a command-line application that allows the user to...
+
+Add departments, roles, employees;
+
+View departments, roles, employees, employees based off managers, 
+total utilized budget of a department, salaries of all employees in that department;
+
+Update employee roles, managers;
+
+Delete departments, roles, and employees.
+
+As the user you will be able to view and manage the departments, roles, and employees in the company, and organize any and all business plans.
 
 
-
-
-
-Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
-
-
+Application uses MySQL, InquirerJs, and Console.table
 
 
 
