@@ -18,7 +18,7 @@ Application uses MySQL, InquirerJs, and Console.table
 
 
 
-<iframe src="https://drive.google.com/file/d/1MLgTPNO-6M2didcKVZ1LD9HCagK7g9KF/preview" width="640" height="480"></iframe>
+"https://drive.google.com/file/d/1MLgTPNO-6M2didcKVZ1LD9HCagK7g9KF/preview"
 
 
 
