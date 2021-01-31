@@ -23,6 +23,7 @@ Application uses MySQL, InquirerJs, and Console.table
 
 
 
+
 MIT License
 
 Copyright (c) [2021] [Alexandria Alixis Atwell]
