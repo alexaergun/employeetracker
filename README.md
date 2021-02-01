@@ -35,7 +35,7 @@ Uses MySQL, InquirerJs, and Console.table
 
 MIT License
 
-Copyright © [2021] [Alexandria Alixis Atwell]
+Copyright © 2021 [Alexandria Alixis Atwell]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
