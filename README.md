@@ -1,4 +1,8 @@
+# Story
+
 Employee Tracker provides non-developers to view and interact with information stored in the database. It is a solution built for managing a companies employees through Node Inquirer, and MySQL. 
+
+# How It Works
 
 The tracker creates a command-line application that allows the user to...
 
@@ -14,7 +18,9 @@ Delete departments, roles, and employees.
 As the user you will be able to view and manage the departments, roles, and employees in the company, and organize any and all business plans.
 
 
-Application uses MySQL, InquirerJs, and Console.table
+# Application 
+
+Uses MySQL, InquirerJs, and Console.table
 
 
 
@@ -29,7 +35,7 @@ Application uses MySQL, InquirerJs, and Console.table
 
 MIT License
 
-Copyright (c) [2021] [Alexandria Alixis Atwell]
+Copyright © [2021] [Alexandria Alixis Atwell]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
